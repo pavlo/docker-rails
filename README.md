@@ -16,7 +16,7 @@ Build the image:
 
 Run webrick (for development):
 
-    docker run -e RAILS_ENV=staging yourid/rails_app
+    docker run -e RAILS_ENV=development yourid/rails_app
     
 To run migrations:
     
